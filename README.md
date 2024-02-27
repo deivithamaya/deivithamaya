@@ -1,4 +1,6 @@
-### Hi there 👋
+
+![Header](./img/github-header-image.png)
+
 
 <!--
 **deivithamaya/deivithamaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
