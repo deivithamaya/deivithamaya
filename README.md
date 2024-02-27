@@ -1,7 +1,8 @@
 
 ![Header](./img/2.png)
-
-<iframe src="https://giphy.com/embed/uHwF4T7IbCp41B5ZVP" width="480" height="96" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/iykra-everyone-data-analytics-uHwF4T7IbCp41B5ZVP">via GIPHY</a></p>
+<div id="header" align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmszbndhM2V5bXF5dHAwenZ3ZzVrZGFhNjFwczJ0MGdtY3liNXVhOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/uHwF4T7IbCp41B5ZVP/giphy.gif" width="200"/>
+</div>
 
 Ingeniero Electrónico y científico de datos junior con mucha pasión hacia las matemáticas, la estadística, el aprendizaje de máquina y el pensamiento crítico. Mis habilidades son la planificación-organización, creatividad, adaptabilidad y mejoramiento continuo.
 
@@ -24,3 +25,7 @@ Ingeniero Electrónico y científico de datos junior con mucha pasión hacia las
 
 ### Socials
 <p align="left"> <a href="https://www.github.com/deivithamaya" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/deivith-amaya-3378b7154" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+
+<div id="header" align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExejVjNmlheDQ3OXozejUwZjVtODZnOWl0NmZwajFtcDI5cHM3ZTVueiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/RYOjQPwodX67xZW06g/giphy.gif" width="200"/>
+</div>
